@@ -1,0 +1,4 @@
+---
+interval: 1000000 # in microsecond
+topic: new_user
+brokers: localhost:9092

@@ -1,0 +1,16 @@
+[package]
+name = "kafka-tutorial-producer"
+version = "0.1.0"
+authors = ["Pierre Zemb <contact@pierrezemb.fr>"]
+
+[dependencies]
+structopt = "0.2.10"
+config = "0.8.0"
+rdkafka = "0.15.0"
+fake = "1.2.2"
+futures = "^0.1.13"
+futures-timer = "0.1.1"
+serde_derive = "1.0.66"
+serde = "1.0.66"
+serde_json = "1.0.21"
+rand = "0.5.2"
